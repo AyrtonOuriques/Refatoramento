@@ -14,4 +14,5 @@ Código Original:https://github.com/AyrtonOuriques/projetoOO
 
 3-Large Class
 
-	A classe Produto foi diminuida e as funções listar_produtos(); e adicionar_produto(); foram colocadas nas classes Listar_Produtos e Produtos2 respectivamente.
+	A classe Produto foi diminuida e as funções listar_produtos(); e adicionar_produto(); 
+	foram colocadas nas classes Listar_Produtos e Produtos2 respectivamente.
